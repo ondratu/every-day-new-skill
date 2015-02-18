@@ -21,3 +21,4 @@ Nové způsoby, jak se něco naučit, které nám přineslo 21. století.
 - [Khanova škola](https://khanovaskola.cz/) / [Khan Academy](https://www.khanacademy.org/)
 - [Naučmese](http://www.naucmese.cz)
 - [Udacity](https://www.udacity.com/)
+- [The Ben Heck Show] (https://www.youtube.com/user/thebenheckshow)

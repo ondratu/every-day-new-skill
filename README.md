@@ -16,6 +16,7 @@ Nové způsoby, jak se něco naučit, které nám přineslo 21. století.
 
 ## Seznam
 
+- [Coursera](https://www.coursera.org/)
 - [Duolingo](https://www.duolingo.com/)
 - [Khanova škola](https://khanovaskola.cz/) / [Khan Academy](https://www.khanacademy.org/)
 - [Naučmese](http://www.naucmese.cz)
